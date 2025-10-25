@@ -4,8 +4,8 @@
 
 ## 🎯 Visão Geral do Projeto
 
-    Este projeto surgiu a partir de um exercício na minha formação em Java, onde o objetivo era apenas buscar o endereço 
-    do usuário via API e salvá-lo em JSON, Eu decidi ir um pouco além, usei esse exercício como a fundação para desenvolver esta aplicação, **um sistema back-end que superasse intencionalmente o nível de um projeto de formação básica**.
+Este projeto surgiu a partir de um exercício na minha formação em Java, onde o objetivo era apenas buscar o endereço 
+do usuário via API e salvá-lo em JSON, Eu decidi ir um pouco além, usei esse exercício como a fundação para desenvolver esta aplicação, **um sistema back-end que superasse intencionalmente o nível de um projeto de formação básica**.
 
 **O que é:** Um sistema de console em Java Puro para **Gerenciamento e Cadastro Persistente de Clientes** de um pequeno negócio.
 
